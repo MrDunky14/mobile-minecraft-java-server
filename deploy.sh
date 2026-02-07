@@ -3,7 +3,7 @@
 # Clones your repo, installs Java/Node, MCSManager, and Playit.
 
 # REPLACE THIS WITH YOUR REPO URL!
-REPO_URL="https://github.com/YOUR_USERNAME/my-server-build.git"
+REPO_URL="https://github.com/MrDunky14/mobile-minecraft-java-server.git"
 
 echo ">>> [1/4] Installing System Dependencies..."
 pkg update -y

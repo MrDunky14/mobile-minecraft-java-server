@@ -48,8 +48,9 @@ Features cross-play (Java/Bedrock), automated Google Drive backups, self-healing
    pkg install git \-y
 
 2. **Clone this Repository:**  
-   git clone \[https://github.com/YOUR\_USERNAME/YOUR\_REPO\_NAME.git\](https://github.com/YOUR\_USERNAME/YOUR\_REPO\_NAME.git)  
-   cd YOUR\_REPO\_NAME
+   git clone https://github.com/MrDunky14/mobile-minecraft-java-server.git 
+   
+   cd mobile-minecraft-java-server.git
 
 3. **Run the Installer:**  
    chmod \+x deploy.sh  
