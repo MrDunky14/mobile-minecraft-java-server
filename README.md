@@ -106,8 +106,8 @@ cd YOUR\_REPO\_NAME
 
 * **Heat Management:** Keep your device cool\! Heavy chunk generation can cause thermal throttling.
 
-<p align="center"\>
+<p align="center">
 
-Created with ❤️ by \<a href="[https://www.google.com/search?q=https://github.com/MrDunky14](https://www.google.com/search?q=https://github.com/MrDunky14)"\>Krishna Singh\</a\>
+Created with ❤️ by <a href="[https://www.google.com/search?q=https://github.com/MrDunky14](https://www.google.com/search?q=https://github.com/MrDunky14)">Krishna Singh</a>
 
-</p\>
+</p>
