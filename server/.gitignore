@@ -1,0 +1,9 @@
+server.jar
+world/
+world_nether/
+world_the_end/
+logs/
+cache/
+versions/
+libraries/
+.fabric/
